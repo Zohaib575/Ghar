@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-
+- [License](#license) <!-- Added a link to the License section -->
 
 ## Introduction
 
