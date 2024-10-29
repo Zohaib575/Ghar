@@ -81,7 +81,6 @@
   height: 100vh;
   position: absolute;
   z-index: -1;
-  animation: animatetop 1.5s ease-in-out, flipColorChange 10s infinite, pulseShadow 2s ease-in-out infinite;
 }
 
 .circles {
@@ -100,7 +99,7 @@
   width: 20px;
   height: 20px;
   background: rgba(255, 255, 255, 0.2);
-  animation: animate 25s linear infinite, pulseShadow 2s ease-in-out infinite alternate, sparkle 3s ease-in-out infinite;
+  animation: animate 25s linear infinite, flipColorChange 10s infinite, pulseShadow 2s ease-in-out infinite alternate, sparkle 3s ease-in-out infinite;
   bottom: -150px;
   transition: transform 0.5s;
 }
@@ -197,6 +196,7 @@
     border-radius: 50%;
   }
 }
+
 
 
 /*
