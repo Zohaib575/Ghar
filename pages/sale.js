@@ -33,7 +33,7 @@ const sale = () => {
 
             <div className="mt-4 sm:text-xl/relaxed text-white">
               Welcome!😊 GHAR is a PAKISTAN Real Estate Property
-              Business Website for Helping People to find more realastic Properties around their . <div className="font bold uppercase text-blue-400 ">If your facing any problem ib adding you property . Please contact with us . We are available 24X7</div>    
+              Business Website for Helping People to find more realastic Properties around their . <div className="font bold uppercase font-bold bg-gradient-to-r from-pink-400 via-yellow-300 via-green-300 to-cyan-400 text-transparent bg-clip-text ">If your facing any problem ib adding you property . Please contact with us . We are available 24X7</div>    
             </div>
 
             <div className="mt-8 flex flex-wrap justify-center gap-4">
