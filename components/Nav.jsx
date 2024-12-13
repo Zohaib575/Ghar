@@ -46,7 +46,7 @@ export default function Nav() {
               <div className="flex flex-1  items-center justify-center sm:items-stretch  sm:justify-start">
                 <div className="flex flex-shrink-0 items-center">
                   <Link href="/" passHref className="text-2xl text-orange-500 hover:text-orange-900 font-bold font-sans">
-                    Ghar360
+                    Ghar
                   </Link>
                 </div>
 
